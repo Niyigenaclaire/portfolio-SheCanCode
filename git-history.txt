@@ -1,0 +1,11 @@
+0e856ff Commit 10: Add CSS comment for header styles
+994a612 Commit 9: Add meta description for SEO
+318f290 Commit 8: Add 'Portfolio' to footer copyright
+856cd3c Commit 7: Add website field to contact info
+d889253 Commit 6: Add 'with creative solutions' to resume description
+8287fc3 Commit 5: Add tech details to Nkunda Tours project description
+ffce4be Commit 4: Update years of experience to 6+
+33dedc9 Commit 3: Change 'advancements' to 'innovation' in about text
+2653062 Commit 2: Update hero title to 'Expert' instead of 'Specialist'
+cf655a3 Commit 1: Add HTML comment for portfolio description
+8f92fbd Initial commit: Personal portfolio website
